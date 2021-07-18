@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuzhen/contest/acwing/contest/4/c.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+vector
+-
+deque
+-
+stack
+-
+queue
+-
+cmath
+-
+unordered_set
+-
+unordered_map
+-
+

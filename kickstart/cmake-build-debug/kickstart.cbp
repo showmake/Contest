@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kickstart"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem2">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem2/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-main">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/kickstart-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-main/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/kickstart-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-3">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-3/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-2">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-2/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-1">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-1/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-3">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-3/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-2">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-2/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-1">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-1/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-4">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-4/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021a-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4_perfect">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem4_perfect" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4_perfect"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4_perfect/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem4_perfect" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4_perfect/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-4">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-4/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-2">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-2/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-Problem1">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-Problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-Problem1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-Problem1/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-Problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-Problem1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem4">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem4/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-1">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-1/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-3">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-3/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020c-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem3">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem3/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020a-problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem2">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem2/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-4">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-4/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2021c-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem1">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem1/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-shuzhuang_array">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/kickstart-shuzhuang_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-shuzhuang_array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-shuzhuang_array/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/kickstart-shuzhuang_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-shuzhuang_array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem3">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem3/fast">
+				<Option output="/Users/zhuzhen/contest/kickstart/cmake-build-debug/2020b-problem3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020a/Problem1.cpp">
+			<Option target="2020a-Problem1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020a/problem2.cpp">
+			<Option target="2020a-problem2"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020a/problem3.cpp">
+			<Option target="2020a-problem3"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020a/problem4.cpp">
+			<Option target="2020a-problem4"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020b/problem1.cpp">
+			<Option target="2020b-problem1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020b/problem2.cpp">
+			<Option target="2020b-problem2"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020b/problem3.cpp">
+			<Option target="2020b-problem3"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020b/problem4.cpp">
+			<Option target="2020b-problem4"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020b/problem4_perfect.cpp">
+			<Option target="2020b-problem4_perfect"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020c/1.cpp">
+			<Option target="2020c-1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020c/2.cpp">
+			<Option target="2020c-2"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020c/3.cpp">
+			<Option target="2020c-3"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2020/2020c/4.cpp">
+			<Option target="2020c-4"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021a/1.cpp">
+			<Option target="2021a-1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021a/2.cpp">
+			<Option target="2021a-2"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021a/3.cpp">
+			<Option target="2021a-3"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021a/4.cpp">
+			<Option target="2021a-4"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021c/1.cpp">
+			<Option target="2021c-1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021c/2.cpp">
+			<Option target="2021c-2"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021c/3.cpp">
+			<Option target="2021c-3"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/2021/2021c/4.cpp">
+			<Option target="2021c-4"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/main.cpp">
+			<Option target="kickstart-main"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/shuzhuang_array.cpp">
+			<Option target="kickstart-shuzhuang_array"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/kickstart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

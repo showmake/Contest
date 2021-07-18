@@ -1,0 +1,10 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/MST_improve-346.dir/improve/graph/MST_improve/346.cpp.o"
+  "MST_improve-346"
+  "MST_improve-346.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MST_improve-346.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

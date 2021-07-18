@@ -1,0 +1,37 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/zhuzhen/contest/atcoder
+    -- src/200-d.cpp will be compiled to bin/200-d
+    -- src/200-e.cpp will be compiled to bin/200-e
+    -- src/200-f.cpp will be compiled to bin/200-f
+    -- src/202-a.cpp will be compiled to bin/202-a
+    -- src/202-b.cpp will be compiled to bin/202-b
+    -- src/202-c.cpp will be compiled to bin/202-c
+    -- src/202-d.cpp will be compiled to bin/202-d
+    -- src/202-e.cpp will be compiled to bin/202-e
+    -- src/202-f.cpp will be compiled to bin/202-f
+    -- src/204-c.cpp will be compiled to bin/204-c
+    -- src/204-compare.cpp will be compiled to bin/204-compare
+    -- src/204-d.cpp will be compiled to bin/204-d
+    -- src/204-d_1.cpp will be compiled to bin/204-d_1
+    -- src/204-data.cpp will be compiled to bin/204-data
+    -- src/204-e.cpp will be compiled to bin/204-e
+    -- src/204-f.cpp will be compiled to bin/204-f
+    -- src/205-d.cpp will be compiled to bin/205-d
+    -- src/206-a.cpp will be compiled to bin/206-a
+    -- src/206-b.cpp will be compiled to bin/206-b
+    -- src/206-c.cpp will be compiled to bin/206-c
+    -- src/206-d.cpp will be compiled to bin/206-d
+    -- src/206-e.cpp will be compiled to bin/206-e
+    -- src/206-f.cpp will be compiled to bin/206-f
+    -- src/207-a.cpp will be compiled to bin/207-a
+    -- src/207-b.cpp will be compiled to bin/207-b
+    -- src/207-c.cpp will be compiled to bin/207-c
+    -- src/207-d.cpp will be compiled to bin/207-d
+    -- src/207-e.cpp will be compiled to bin/207-e
+    -- src/207-f.cpp will be compiled to bin/207-f
+    -- src/121-a.cpp will be compiled to bin/121-a
+    -- src/121-b.cpp will be compiled to bin/121-b
+    -- src/atcoder-main.cpp will be compiled to bin/atcoder-main
+    -- src/atcoder-test.cpp will be compiled to bin/atcoder-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhuzhen/contest/atcoder/cmake-build-debug

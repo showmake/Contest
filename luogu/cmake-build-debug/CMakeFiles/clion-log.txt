@@ -1,0 +1,30 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/zhuzhen/contest/luogu
+    -- src/data_structure-1198.cpp will be compiled to bin/data_structure-1198
+    -- src/data_structure-1816.cpp will be compiled to bin/data_structure-1816
+    -- src/data_structure-1955.cpp will be compiled to bin/data_structure-1955
+    -- src/data_structure-1966.cpp will be compiled to bin/data_structure-1966
+    -- src/data_structure-2024.cpp will be compiled to bin/data_structure-2024
+    -- src/data_structure-2024_1.cpp will be compiled to bin/data_structure-2024_1
+    -- src/data_structure-2251.cpp will be compiled to bin/data_structure-2251
+    -- src/data_structure-2880.cpp will be compiled to bin/data_structure-2880
+    -- src/data_structure-5012.cpp will be compiled to bin/data_structure-5012
+    -- src/data_structure-p1111.cpp will be compiled to bin/data_structure-p1111
+    -- src/data_structure-p1196.cpp will be compiled to bin/data_structure-p1196
+    -- src/data_structure-p1536.cpp will be compiled to bin/data_structure-p1536
+    -- src/data_structure-p3865.cpp will be compiled to bin/data_structure-p3865
+    -- src/bag-1048.cpp will be compiled to bin/bag-1048
+    -- src/bag-1060.cpp will be compiled to bin/bag-1060
+    -- src/bag-1064.cpp will be compiled to bin/bag-1064
+    -- src/bag-1156.cpp will be compiled to bin/bag-1156
+    -- src/bag-1757.cpp will be compiled to bin/bag-1757
+    -- src/bag-1855.cpp will be compiled to bin/bag-1855
+    -- src/bag-2946.cpp will be compiled to bin/bag-2946
+    -- src/bag-5020.cpp will be compiled to bin/bag-5020
+    -- src/bag-5289.cpp will be compiled to bin/bag-5289
+    -- src/bag-5322.cpp will be compiled to bin/bag-5322
+    -- src/tree_dp-p2014.cpp will be compiled to bin/tree_dp-p2014
+    -- src/luogu-main.cpp will be compiled to bin/luogu-main
+    -- src/luogu-test.cpp will be compiled to bin/luogu-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhuzhen/contest/luogu/cmake-build-debug

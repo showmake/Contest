@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="atcoder"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-test">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/atcoder-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-test/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/atcoder-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-b">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/121-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-b/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/121-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-main">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/atcoder-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-main/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/atcoder-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-f">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-f"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-f/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-f/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-e">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-e/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-b">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-b/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-a">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-a/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-f">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-f"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-f/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-f/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-c">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-c/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-e">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-e/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-c">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-c/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/207-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-data">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-data"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-data/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-data/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-c">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-c/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-compare">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-compare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-compare"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-compare/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-compare" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-compare/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-f">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-f"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-f/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-f/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d_1">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-d_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d_1/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-d_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-e">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-e/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-b">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-b/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-a">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-a/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-f">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-f"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-f/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-f/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-e">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-e/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-c">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-c/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-a">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-a/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/202-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/205-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 205-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/205-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 205-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-b">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-b/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-a">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/121-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-a/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/121-a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-f">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-f"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-f/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/204-f" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-f/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-e">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-e/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/206-e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-d">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-d/fast">
+				<Option output="/Users/zhuzhen/contest/atcoder/cmake-build-debug/200-d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/200/d.cpp">
+			<Option target="200-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/200/e.cpp">
+			<Option target="200-e"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/200/f.cpp">
+			<Option target="200-f"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/a.cpp">
+			<Option target="202-a"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/b.cpp">
+			<Option target="202-b"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/c.cpp">
+			<Option target="202-c"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/d.cpp">
+			<Option target="202-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/e.cpp">
+			<Option target="202-e"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/202/f.cpp">
+			<Option target="202-f"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/c.cpp">
+			<Option target="204-c"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/compare.cpp">
+			<Option target="204-compare"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/d.cpp">
+			<Option target="204-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/d_1.cpp">
+			<Option target="204-d_1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/data.cpp">
+			<Option target="204-data"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/e.cpp">
+			<Option target="204-e"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/204/f.cpp">
+			<Option target="204-f"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/205/d.cpp">
+			<Option target="205-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/a.cpp">
+			<Option target="206-a"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/b.cpp">
+			<Option target="206-b"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/c.cpp">
+			<Option target="206-c"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/d.cpp">
+			<Option target="206-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/e.cpp">
+			<Option target="206-e"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/206/f.cpp">
+			<Option target="206-f"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/a.cpp">
+			<Option target="207-a"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/b.cpp">
+			<Option target="207-b"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/c.cpp">
+			<Option target="207-c"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/d.cpp">
+			<Option target="207-d"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/e.cpp">
+			<Option target="207-e"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/abc/207/f.cpp">
+			<Option target="207-f"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/ahc/121/a.cpp">
+			<Option target="121-a"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/ahc/121/b.cpp">
+			<Option target="121-b"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/main.cpp">
+			<Option target="atcoder-main"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/test.cpp">
+			<Option target="atcoder-test"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/atcoder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
