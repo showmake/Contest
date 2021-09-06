@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="luogu"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu-test">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/luogu-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu-test"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu-test/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/luogu-test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu-test/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu-main">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/luogu-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu-main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu-main/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/luogu-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu-main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree_dp-p2014">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/tree_dp-p2014" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 tree_dp-p2014"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tree_dp-p2014/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/tree_dp-p2014" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 tree_dp-p2014/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5289">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5289" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5289"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5289/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5289" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5289/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1196">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1196" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1196"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1196/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1196" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1196/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5020">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5020"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5020/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5020/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1156">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1156"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1156/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1156/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5322">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5322" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5322"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-5322/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-5322" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-5322/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-2946">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-2946" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-2946"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-2946/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-2946" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-2946/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1855">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1855" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1855"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1855/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1855" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1855/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1064">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1064" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1064"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1064/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1064" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1064/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1060">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1060" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1060"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1060/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1060" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1060/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2880">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2880" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2880"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2880/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2880" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2880/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1955">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1955" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1955"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1955/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1955" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1955/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2251">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2251" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2251"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2251/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2251" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2251/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p3865">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p3865" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p3865"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p3865/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p3865" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p3865/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2024">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2024" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2024"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2024/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2024" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2024/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2024_1">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2024_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2024_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-2024_1/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-2024_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-2024_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1111">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1111"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1111/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1111" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1111/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1966">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1966" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1966"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1966/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1966" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1966/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1757">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1757" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1757"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1757/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1757" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1757/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-5012">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-5012" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-5012"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-5012/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-5012" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-5012/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1048">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1048"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bag-1048/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/bag-1048" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 bag-1048/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1198">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1198" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1198"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1198/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1198" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1198/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1536">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1536" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1536"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-p1536/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-p1536" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-p1536/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1816">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1816" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1816"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="data_structure-1816/fast">
+				<Option output="/Users/zhuzhen/contest/luogu/cmake-build-debug/data_structure-1816" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuzhen/contest/luogu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 data_structure-1816/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zhuzhen/contest/luogu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/1198.cpp">
+			<Option target="data_structure-1198"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/1816.cpp">
+			<Option target="data_structure-1816"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/1955.cpp">
+			<Option target="data_structure-1955"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/1966.cpp">
+			<Option target="data_structure-1966"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/2024.cpp">
+			<Option target="data_structure-2024"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/2024_1.cpp">
+			<Option target="data_structure-2024_1"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/2251.cpp">
+			<Option target="data_structure-2251"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/2880.cpp">
+			<Option target="data_structure-2880"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/5012.cpp">
+			<Option target="data_structure-5012"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/p1111.cpp">
+			<Option target="data_structure-p1111"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/p1196.cpp">
+			<Option target="data_structure-p1196"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/p1536.cpp">
+			<Option target="data_structure-p1536"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/data_structure/p3865.cpp">
+			<Option target="data_structure-p3865"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1048.cpp">
+			<Option target="bag-1048"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1060.cpp">
+			<Option target="bag-1060"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1064.cpp">
+			<Option target="bag-1064"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1156.cpp">
+			<Option target="bag-1156"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1757.cpp">
+			<Option target="bag-1757"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/1855.cpp">
+			<Option target="bag-1855"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/2946.cpp">
+			<Option target="bag-2946"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/5020.cpp">
+			<Option target="bag-5020"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/5289.cpp">
+			<Option target="bag-5289"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/bag/5322.cpp">
+			<Option target="bag-5322"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/dp/tree_dp/p2014.cpp">
+			<Option target="tree_dp-p2014"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/main.cpp">
+			<Option target="luogu-main"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/test.cpp">
+			<Option target="luogu-test"/>
+		</Unit>
+		<Unit filename="/Users/zhuzhen/contest/luogu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

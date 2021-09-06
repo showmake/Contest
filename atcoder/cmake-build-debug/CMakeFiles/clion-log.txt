@@ -1,0 +1,60 @@
+"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\study\contest\atcoder
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/study/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/study/mingw64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+    -- src/200-d.cpp will be compiled to bin/200-d
+    -- src/200-e.cpp will be compiled to bin/200-e
+    -- src/200-f.cpp will be compiled to bin/200-f
+    -- src/202-a.cpp will be compiled to bin/202-a
+    -- src/202-b.cpp will be compiled to bin/202-b
+    -- src/202-c.cpp will be compiled to bin/202-c
+    -- src/202-d.cpp will be compiled to bin/202-d
+    -- src/202-e.cpp will be compiled to bin/202-e
+    -- src/202-f.cpp will be compiled to bin/202-f
+    -- src/204-c.cpp will be compiled to bin/204-c
+    -- src/204-compare.cpp will be compiled to bin/204-compare
+    -- src/204-d.cpp will be compiled to bin/204-d
+    -- src/204-d_1.cpp will be compiled to bin/204-d_1
+    -- src/204-data.cpp will be compiled to bin/204-data
+    -- src/204-e.cpp will be compiled to bin/204-e
+    -- src/204-f.cpp will be compiled to bin/204-f
+    -- src/205-d.cpp will be compiled to bin/205-d
+    -- src/206-a.cpp will be compiled to bin/206-a
+    -- src/206-b.cpp will be compiled to bin/206-b
+    -- src/206-c.cpp will be compiled to bin/206-c
+    -- src/206-d.cpp will be compiled to bin/206-d
+    -- src/206-e.cpp will be compiled to bin/206-e
+    -- src/206-f.cpp will be compiled to bin/206-f
+    -- src/207-a.cpp will be compiled to bin/207-a
+    -- src/207-b.cpp will be compiled to bin/207-b
+    -- src/207-c.cpp will be compiled to bin/207-c
+    -- src/207-d.cpp will be compiled to bin/207-d
+    -- src/207-e.cpp will be compiled to bin/207-e
+    -- src/207-f.cpp will be compiled to bin/207-f
+    -- src/211-a.cpp will be compiled to bin/211-a
+    -- src/211-b.cpp will be compiled to bin/211-b
+    -- src/211-c.cpp will be compiled to bin/211-c
+    -- src/211-d.cpp will be compiled to bin/211-d
+    -- src/211-e.cpp will be compiled to bin/211-e
+    -- src/212-a.cpp will be compiled to bin/212-a
+    -- src/212-b.cpp will be compiled to bin/212-b
+    -- src/212-c.cpp will be compiled to bin/212-c
+    -- src/212-d.cpp will be compiled to bin/212-d
+    -- src/212-e.cpp will be compiled to bin/212-e
+    -- src/212-f.cpp will be compiled to bin/212-f
+    -- src/121-a.cpp will be compiled to bin/121-a
+    -- src/121-b.cpp will be compiled to bin/121-b
+    -- src/atcoder-main.cpp will be compiled to bin/atcoder-main
+    -- src/atcoder-test.cpp will be compiled to bin/atcoder-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/study/contest/atcoder/cmake-build-debug

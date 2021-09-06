@@ -1,0 +1,3 @@
+"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lca-1172.dir/objects.a
+D:\study\mingw64\bin\ar.exe cr CMakeFiles\lca-1172.dir/objects.a @CMakeFiles\lca-1172.dir\objects1.rsp
+D:\study\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\lca-1172.dir/objects.a -Wl,--no-whole-archive -o lca-1172.exe -Wl,--out-implib,liblca-1172.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lca-1172.dir\linklibs.rsp

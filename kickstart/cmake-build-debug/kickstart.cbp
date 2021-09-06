@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="kickstart"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-Problem1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-Problem1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-Problem1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-Problem1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-Problem1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-Problem1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-shuzhuang_array">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/kickstart-shuzhuang_array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-shuzhuang_array"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-shuzhuang_array/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/kickstart-shuzhuang_array.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-shuzhuang_array/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020a-problem4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020a-problem4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020a-problem4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4_perfect">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem4_perfect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4_perfect"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020b-problem4_perfect/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020b-problem4_perfect.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020b-problem4_perfect/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2020c-4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2020c-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2020c-4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-1">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-1/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-4">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-4"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021a-4/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021a-4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021a-4/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021c-3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021c-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021c-3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-2">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-2"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-2/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-2/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-3">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-3"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2021e-3/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/2021e-3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 2021e-3/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-main">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/kickstart-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-main"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kickstart-main/fast">
+				<Option output="D:/study/contest/kickstart/cmake-build-debug/kickstart-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 kickstart-main/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/study/contest/kickstart/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/kickstart/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/study/contest/kickstart/2020/2020a/Problem1.cpp">
+			<Option target="2020a-Problem1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020a/problem2.cpp">
+			<Option target="2020a-problem2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020a/problem3.cpp">
+			<Option target="2020a-problem3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020a/problem4.cpp">
+			<Option target="2020a-problem4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020b/problem1.cpp">
+			<Option target="2020b-problem1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020b/problem2.cpp">
+			<Option target="2020b-problem2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020b/problem3.cpp">
+			<Option target="2020b-problem3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020b/problem4.cpp">
+			<Option target="2020b-problem4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020b/problem4_perfect.cpp">
+			<Option target="2020b-problem4_perfect"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020c/1.cpp">
+			<Option target="2020c-1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020c/2.cpp">
+			<Option target="2020c-2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020c/3.cpp">
+			<Option target="2020c-3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2020/2020c/4.cpp">
+			<Option target="2020c-4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021a/1.cpp">
+			<Option target="2021a-1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021a/2.cpp">
+			<Option target="2021a-2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021a/3.cpp">
+			<Option target="2021a-3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021a/4.cpp">
+			<Option target="2021a-4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021c/1.cpp">
+			<Option target="2021c-1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021c/2.cpp">
+			<Option target="2021c-2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021c/3.cpp">
+			<Option target="2021c-3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021c/4.cpp">
+			<Option target="2021c-4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021e/1.cpp">
+			<Option target="2021e-1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021e/2.cpp">
+			<Option target="2021e-2"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021e/3.cpp">
+			<Option target="2021e-3"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/2021/2021e/4.cpp">
+			<Option target="2021e-4"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/main.cpp">
+			<Option target="kickstart-main"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/shuzhuang_array.cpp">
+			<Option target="kickstart-shuzhuang_array"/>
+		</Unit>
+		<Unit filename="D:/study/contest/kickstart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

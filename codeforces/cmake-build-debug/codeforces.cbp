@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="codeforces"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-a">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-a/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-b">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-b/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="codeforces-test">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/codeforces-test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 codeforces-test"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="codeforces-test/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/codeforces-test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 codeforces-test/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-c">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-c/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-d">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-d/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-f">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="112-f/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/112-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 112-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="codeforces-main">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/codeforces-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 codeforces-main"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="codeforces-main/fast">
+				<Option output="D:/study/contest/codeforces/cmake-build-debug/codeforces-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 codeforces-main/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/study/contest/codeforces/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/codeforces/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/study/contest/codeforces/edu/112/a.cpp">
+			<Option target="112-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/edu/112/b.cpp">
+			<Option target="112-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/edu/112/c.cpp">
+			<Option target="112-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/edu/112/d.cpp">
+			<Option target="112-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/edu/112/f.cpp">
+			<Option target="112-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/main.cpp">
+			<Option target="codeforces-main"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/test.cpp">
+			<Option target="codeforces-test"/>
+		</Unit>
+		<Unit filename="D:/study/contest/codeforces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

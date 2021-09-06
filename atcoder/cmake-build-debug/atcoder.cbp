@@ -1,0 +1,2025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="atcoder"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-test">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/atcoder-test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-test"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-test/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/atcoder-test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-test/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-data">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-data"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-data/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-data.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-data/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/205-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 205-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="205-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/205-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 205-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="200-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/200-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 200-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="202-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/202-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 202-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-compare">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-compare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-compare"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-compare/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-compare.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-compare/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d_1">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-d_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d_1"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-d_1/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-d_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-d_1/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="204-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/204-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 204-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="206-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/206-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 206-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="207-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/207-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 207-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-c">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-c"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-c/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-c.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-c/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="211-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/211-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 211-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-d">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-d"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-d/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-d.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-d/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-e">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-e"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-e/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-e.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-e/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-f">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-f"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="212-f/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/212-f.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 212-f/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-a">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/121-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-a"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-a/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/121-a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-a/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-b">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/121-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-b"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="121-b/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/121-b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 121-b/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-main">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/atcoder-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-main"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="atcoder-main/fast">
+				<Option output="D:/study/contest/atcoder/cmake-build-debug/atcoder-main.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/study/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 atcoder-main/fast"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/study/contest/atcoder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/study/mingw64/bin/mingw32-make.exe -f &quot;D:/study/contest/atcoder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/study/contest/atcoder/abc/200/d.cpp">
+			<Option target="200-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/200/e.cpp">
+			<Option target="200-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/200/f.cpp">
+			<Option target="200-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/a.cpp">
+			<Option target="202-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/b.cpp">
+			<Option target="202-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/c.cpp">
+			<Option target="202-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/d.cpp">
+			<Option target="202-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/e.cpp">
+			<Option target="202-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/202/f.cpp">
+			<Option target="202-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/c.cpp">
+			<Option target="204-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/compare.cpp">
+			<Option target="204-compare"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/d.cpp">
+			<Option target="204-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/d_1.cpp">
+			<Option target="204-d_1"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/data.cpp">
+			<Option target="204-data"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/e.cpp">
+			<Option target="204-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/204/f.cpp">
+			<Option target="204-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/205/d.cpp">
+			<Option target="205-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/a.cpp">
+			<Option target="206-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/b.cpp">
+			<Option target="206-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/c.cpp">
+			<Option target="206-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/d.cpp">
+			<Option target="206-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/e.cpp">
+			<Option target="206-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/206/f.cpp">
+			<Option target="206-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/a.cpp">
+			<Option target="207-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/b.cpp">
+			<Option target="207-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/c.cpp">
+			<Option target="207-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/d.cpp">
+			<Option target="207-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/e.cpp">
+			<Option target="207-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/207/f.cpp">
+			<Option target="207-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/211/a.cpp">
+			<Option target="211-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/211/b.cpp">
+			<Option target="211-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/211/c.cpp">
+			<Option target="211-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/211/d.cpp">
+			<Option target="211-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/211/e.cpp">
+			<Option target="211-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/a.cpp">
+			<Option target="212-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/b.cpp">
+			<Option target="212-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/c.cpp">
+			<Option target="212-c"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/d.cpp">
+			<Option target="212-d"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/e.cpp">
+			<Option target="212-e"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/abc/212/f.cpp">
+			<Option target="212-f"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/ahc/121/a.cpp">
+			<Option target="121-a"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/ahc/121/b.cpp">
+			<Option target="121-b"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/main.cpp">
+			<Option target="atcoder-main"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/test.cpp">
+			<Option target="atcoder-test"/>
+		</Unit>
+		<Unit filename="D:/study/contest/atcoder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/contest/acwing/improve/graph/floyd/1125.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+vector
+-
+deque
+-
+stack
+-
+queue
+-
+cmath
+-
+set
+-
+map
+-
+unordered_set
+-
+unordered_map
+-
+

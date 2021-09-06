@@ -1,0 +1,3 @@
+"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\xielv_dp-302.dir/objects.a
+D:\study\mingw64\bin\ar.exe cr CMakeFiles\xielv_dp-302.dir/objects.a @CMakeFiles\xielv_dp-302.dir\objects1.rsp
+D:\study\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\xielv_dp-302.dir/objects.a -Wl,--no-whole-archive -o xielv_dp-302.exe -Wl,--out-implib,libxielv_dp-302.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\xielv_dp-302.dir\linklibs.rsp

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/contest/acwing/improve/graph/shortest_path_base/920.cpp
+iostream
+-
+sstream
+-
+cstring
+-
+algorithm
+-
+vector
+-
+deque
+-
+stack
+-
+queue
+-
+cmath
+-
+unordered_set
+-
+unordered_map
+-
+

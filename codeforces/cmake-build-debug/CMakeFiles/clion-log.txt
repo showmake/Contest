@@ -1,0 +1,11 @@
+"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\study\contest\codeforces
+    -- src/112-a.cpp will be compiled to bin/112-a
+    -- src/112-b.cpp will be compiled to bin/112-b
+    -- src/112-c.cpp will be compiled to bin/112-c
+    -- src/112-d.cpp will be compiled to bin/112-d
+    -- src/112-f.cpp will be compiled to bin/112-f
+    -- src/codeforces-main.cpp will be compiled to bin/codeforces-main
+    -- src/codeforces-test.cpp will be compiled to bin/codeforces-test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/study/contest/codeforces/cmake-build-debug
