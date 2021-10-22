@@ -1,16 +1,4 @@
 "D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\study\contest\atcoder
--- The C compiler identification is GNU 8.1.0
--- The CXX compiler identification is GNU 8.1.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: D:/study/mingw64/bin/gcc.exe - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: D:/study/mingw64/bin/g++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
     -- src/200-d.cpp will be compiled to bin/200-d
     -- src/200-e.cpp will be compiled to bin/200-e
     -- src/200-f.cpp will be compiled to bin/200-f
@@ -51,8 +39,46 @@
     -- src/212-d.cpp will be compiled to bin/212-d
     -- src/212-e.cpp will be compiled to bin/212-e
     -- src/212-f.cpp will be compiled to bin/212-f
+    -- src/218-a.cpp will be compiled to bin/218-a
+    -- src/218-b.cpp will be compiled to bin/218-b
+    -- src/218-c.cpp will be compiled to bin/218-c
+    -- src/218-d.cpp will be compiled to bin/218-d
+    -- src/218-e.cpp will be compiled to bin/218-e
+    -- src/218-f.cpp will be compiled to bin/218-f
+    -- src/218-g.cpp will be compiled to bin/218-g
+    -- src/218-h.cpp will be compiled to bin/218-h
+    -- src/220-a.cpp will be compiled to bin/220-a
+    -- src/220-b.cpp will be compiled to bin/220-b
+    -- src/220-c.cpp will be compiled to bin/220-c
+    -- src/220-d.cpp will be compiled to bin/220-d
+    -- src/220-e.cpp will be compiled to bin/220-e
+    -- src/220-f.cpp will be compiled to bin/220-f
+    -- src/220-g.cpp will be compiled to bin/220-g
+    -- src/220-h.cpp will be compiled to bin/220-h
+    -- src/222-a.cpp will be compiled to bin/222-a
+    -- src/222-b.cpp will be compiled to bin/222-b
+    -- src/222-c.cpp will be compiled to bin/222-c
+    -- src/222-d.cpp will be compiled to bin/222-d
+    -- src/222-e.cpp will be compiled to bin/222-e
+    -- src/222-f.cpp will be compiled to bin/222-f
+    -- src/222-g.cpp will be compiled to bin/222-g
+    -- src/222-h.cpp will be compiled to bin/222-h
+    -- src/223-a.cpp will be compiled to bin/223-a
+    -- src/223-b.cpp will be compiled to bin/223-b
+    -- src/223-c.cpp will be compiled to bin/223-c
+    -- src/223-d.cpp will be compiled to bin/223-d
+    -- src/223-e.cpp will be compiled to bin/223-e
+    -- src/223-f.cpp will be compiled to bin/223-f
+    -- src/223-g.cpp will be compiled to bin/223-g
+    -- src/223-h.cpp will be compiled to bin/223-h
     -- src/121-a.cpp will be compiled to bin/121-a
     -- src/121-b.cpp will be compiled to bin/121-b
+    -- src/128-a.cpp will be compiled to bin/128-a
+    -- src/128-b.cpp will be compiled to bin/128-b
+    -- src/128-c.cpp will be compiled to bin/128-c
+    -- src/128-d.cpp will be compiled to bin/128-d
+    -- src/128-e.cpp will be compiled to bin/128-e
+    -- src/128-f.cpp will be compiled to bin/128-f
     -- src/atcoder-main.cpp will be compiled to bin/atcoder-main
     -- src/atcoder-test.cpp will be compiled to bin/atcoder-test
 -- Configuring done

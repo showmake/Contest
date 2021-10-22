@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/contest/atcoder/arc/128/a.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+vector
+-
+deque
+-
+stack
+-
+queue
+-
+cmath
+-
+unordered_set
+-
+unordered_map
+-
+

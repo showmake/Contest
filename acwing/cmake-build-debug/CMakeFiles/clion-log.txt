@@ -142,6 +142,11 @@
     -- src/differential_constraint-1170.cpp will be compiled to bin/differential_constraint-1170
     -- src/differential_constraint-362.cpp will be compiled to bin/differential_constraint-362
     -- src/differential_constraint-393.cpp will be compiled to bin/differential_constraint-393
+    -- src/erfentu-257.cpp will be compiled to bin/erfentu-257
+    -- src/erfentu-372.cpp will be compiled to bin/erfentu-372
+    -- src/erfentu-376.cpp will be compiled to bin/erfentu-376
+    -- src/erfentu-378.cpp will be compiled to bin/erfentu-378
+    -- src/erfentu-379.cpp will be compiled to bin/erfentu-379
     -- src/floyd-1125.cpp will be compiled to bin/floyd-1125
     -- src/floyd-343.cpp will be compiled to bin/floyd-343
     -- src/floyd-344.cpp will be compiled to bin/floyd-344
@@ -153,6 +158,10 @@
     -- src/negative_ring-1165.cpp will be compiled to bin/negative_ring-1165
     -- src/negative_ring-361.cpp will be compiled to bin/negative_ring-361
     -- src/negative_ring-904.cpp will be compiled to bin/negative_ring-904
+    -- src/scc-1174.cpp will be compiled to bin/scc-1174
+    -- src/scc-1175.cpp will be compiled to bin/scc-1175
+    -- src/scc-367.cpp will be compiled to bin/scc-367
+    -- src/scc-368.cpp will be compiled to bin/scc-368
     -- src/shortest_path_base-1126.cpp will be compiled to bin/shortest_path_base-1126
     -- src/shortest_path_base-1127.cpp will be compiled to bin/shortest_path_base-1127
     -- src/shortest_path_base-1128.cpp will be compiled to bin/shortest_path_base-1128

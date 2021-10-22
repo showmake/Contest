@@ -1,4 +1,7 @@
-"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\study\contest\codeforces
+"D:\study\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\study\contest\codeforces
+    -- src/742-a.cpp will be compiled to bin/742-a
+    -- src/742-b.cpp will be compiled to bin/742-b
+    -- src/742-c.cpp will be compiled to bin/742-c
     -- src/112-a.cpp will be compiled to bin/112-a
     -- src/112-b.cpp will be compiled to bin/112-b
     -- src/112-c.cpp will be compiled to bin/112-c
